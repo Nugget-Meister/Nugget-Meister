@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Nugget-Meister](github.com/Nugget-Meister) for now.
 
+- 💬 When I'm not working you can usually catch me **drawing, writing, or running.**
+
 - 💬 Ask me about **My favorite cheese**
 
 - ⚡ Fun fact **I wear glasses because I used to stare at the sun.**
