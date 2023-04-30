@@ -1,17 +1,15 @@
-### Hi there 👋
-#### Its me ya boi.
-
 
 <h1 align="center">Hi 👋, I'm Keith Camacho</h1>
-<h3 align="center">A fledgeling Fullstack WebDev Fellow at Pursuit</h3>
-
+<h6 align="center">Also known as Nugget-Meister</h4>
+<h3 align="center">I'm a Fullstack Engineer in training and a Fellow at Pursuit</h3>
+<h6>You should check them out <a href="https://www.pursuit.org/fellowship">here!</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nugget-meister&label=Profile%20views&color=0e75b6&style=flat" alt="nugget-meister" /> </p>
 
 - 🔭 I’m currently working on **DDMOD, a music replacer for Dragon's Dogma**
 
 - 🌱 I’m currently learning **C#, Python, Javascript**
 
-- 👨‍💻 All of my projects are available at [github.com/Nugget-Meister](github.com/Nugget-Meister)
+- 👨‍💻 All of my projects are available at [github.com/Nugget-Meister](github.com/Nugget-Meister) for now.
 
 - 💬 Ask me about **My favorite cheese**
 
